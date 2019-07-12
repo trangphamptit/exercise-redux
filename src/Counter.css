@@ -1,0 +1,26 @@
+.counter {
+  width: 250px;
+  height: 200px;
+  border: 1px solid gray;
+  margin: auto;
+  padding: 30px;
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  text-align: center;
+}
+.counter-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: gray;
+}
+button {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+  color: gray;
+}
+span {
+  font-size: 40px;
+}
